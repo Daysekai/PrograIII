@@ -6,17 +6,15 @@
 
 package lab01;
 
-/**
- *
- * @author XPC
- */
+import java.util.Scanner;
+
 public class Lab01 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola mundo");
     }
 
 }
